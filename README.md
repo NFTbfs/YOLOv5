@@ -61,6 +61,3 @@ pip install tqdm
                 ├── 1111.txt
                 ├── 2222.txt
 
-#### Reference
-
-* https://github.com/ultralytics/yolov5
